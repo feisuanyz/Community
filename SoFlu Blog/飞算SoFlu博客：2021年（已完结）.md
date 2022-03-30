@@ -89,3 +89,25 @@
 原文链接：https://my.oschina.net/u/4868096/blog/5193516
 
 16. 《突破四大要素：飞算SoFlu助力企业实现DevOps落地》
+
+发布日期：2021/08/31
+
+原文链接：https://my.oschina.net/u/4868096/blog/5214413
+
+17. 《从 CI/CD 到 DevOps》
+
+发布日期：2021/09/07
+
+原文链接：https://my.oschina.net/u/4868096/blog/5233761
+
+18. 《一文揭示，DevOps与企业数字化究竟有何联系？》
+
+发布日期：2021/09/15
+
+原文链接：https://my.oschina.net/u/4868096/blog/5262714
+
+19. 《从敏捷开发到全自动开发，加速实现企业数字化转型》
+
+发布日期：2021/09/26
+
+原文链接：https://my.oschina.net/u/4868096/blog/5269298
