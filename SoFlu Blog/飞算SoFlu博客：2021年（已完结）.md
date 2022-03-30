@@ -111,3 +111,27 @@
 发布日期：2021/09/26
 
 原文链接：https://my.oschina.net/u/4868096/blog/5269298
+
+20. 《盘盘 DevOps“衍生品”： DevSecOps、NoOps、AIOps》
+
+发布日期：2021/10/08
+
+原文链接：https://my.oschina.net/u/4868096/blog/5275141
+
+21. 《从瀑布式到DevOps，开发流程经历了什么？》
+
+发布日期：2021/10/18
+
+原文链接：https://my.oschina.net/u/4868096/blog/5281812
+
+22. 《SoFlu，让 DevOps 更进一步》
+
+发布日期：2021/10/25
+
+原文链接：https://my.oschina.net/u/4868096/blog/5286924
+
+23. 《DevOps进击之后，DevSecOps又在说些什么？》
+
+发布日期：2021/11/01
+
+原文链接：https://my.oschina.net/u/4868096/blog/5292303
