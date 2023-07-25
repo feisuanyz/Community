@@ -1,5 +1,4 @@
-![开发者社区LOGO](![image](https://github.com/feisuanyz/Community/assets/79617492/ed3b8627-9fa6-47a7-b48d-e7606725ce5a)
-)
+![开发者社区LOGO](https://github.com/feisuanyz/Community/assets/79617492/ed3b8627-9fa6-47a7-b48d-e7606725ce5a)
 
 欢迎来到SoFlu开发者社区！
 
