@@ -2,6 +2,8 @@
 
 欢迎来到SoFlu开发者社区！
 
+语言：[中文](https://github.com/feisuanyz/Community/blob/main/READMEcn.md) | [English](https://github.com/feisuanyz/Community/blob/main/README.md) 
+
 #### 仓库简介
 此仓库保存了SoFlu开发者社区的所有信息，包括社区愿景、社区架构、治理模式、社区活动、社区贡献指南以及沟通交流渠道等内容。
 
