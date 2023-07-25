@@ -1,7 +1,5 @@
 ![开发者社区LOGO](https://images.gitee.com/uploads/images/2021/0830/100210_854951e2_8721401.png "logo白底500w.png")
 
-[English](https://github.com/feisuanyz/SoFlu-DevCommunity/blob/main/README.en.md) | 简体中文
-
 欢迎来到SoFlu开发者社区！
 
 #### 仓库简介
